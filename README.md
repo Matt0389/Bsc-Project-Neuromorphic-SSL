@@ -3,6 +3,7 @@ Repo for my bachelor's project in Electrical Engineering, titled "Neuromorphic s
 
 # Schedule and to-do
 Week | Description
+
 1 | Literature review and preparation of literature database and software framework
 
 2 | Design and implementation of filter bank and frequency estimate
