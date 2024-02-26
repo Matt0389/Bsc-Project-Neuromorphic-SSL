@@ -2,7 +2,7 @@
 Repo for my bachelor's project in Electrical Engineering, titled "Neuromorphic sound source localization with interaural level- and time differences"
 
 ## Schedule and to-do
-_Week | Description _
+**Week | Description** 
 
 ### 1 | Literature review and preparation of literature database and software framework
   - GitHub is set up
